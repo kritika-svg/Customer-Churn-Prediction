@@ -1,1 +1,2 @@
 # customer-Churn-Prediction
+In this project, we focused on predicting customer churn using the Telco dataset. After preprocessing and exploring the data, we built classification models, with Random Forest showing the best results. Features like contract type, payment method, and monthly charges were strong indicators of churn. These findings can support targeted retention strategies and help reduce customer loss.
